@@ -1,6 +1,6 @@
 # About
 
-I've been coding and developing apps for a long time. I'm passionate about designing extendeble and composable code; it took me a while to even start thinking about that. When I started coding, I just wanted to get something working and out the window. Many things were different back then, with regard to both myself and the opportunities available.
+I've been coding and developing apps for a long time. I'm passionate about designing extendable and composable code; it took me a while to even start thinking about that. When I started coding, I just wanted to get something working and out the window. Many things were different back then, with regard to both myself and the opportunities available.
 
 I am currently working at Grok (grokstream.com). Grok's product changes how companies leverage artificial intelligence and machine learning to deliver service assurance. Honestly, I don't have much time to contribute to opensource software; I find the work I do at Grok very fulfilling. I get to work on interesting problems alongside a diverse team of experts; data scientists, architects, devops, and front-end developers.
 
