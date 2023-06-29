@@ -4,9 +4,6 @@ I've been coding and developing apps for a long time. I'm passionate about desig
 
 I am currently working at Grok (grokstream.com). Grok's product changes how companies leverage artificial intelligence and machine learning to deliver service assurance. Honestly, I don't have much time to contribute to opensource software; I find the work I do at Grok very fulfilling. I get to work on interesting problems alongside a diverse team of experts; data scientists, architects, devops, and front-end developers.
 
-I'm grateful that I can choose who I work with, but that doesn't mean I haven't come across problematic people out in the wild; developers that want to have an argument over renaming "master" to "main"; a CTO that rejects my application because I wear a hat in my profile picture; the list goes on but I digress. I like to stay focused with the eyes on the prize. Proficiency and mastery have improved my quality of life.
-
-
 - 🔭 I’m currently working on a user management tool.
 - 🌱 I’m currently learning about branding and community development.
 - 👯 I’m looking to collaborate on developing new frameworks.
